@@ -1,3 +1,20 @@
-/*web link
-https://grocerylistapp-67353.web.app
-*/
+h1 {
+    color: rgb(247, 16, 16);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(247, 238, 227);
+}
+
+
+#grocery-list li {
+    color: navy;
+}
+
+#grocery-list li button.remove {
+    margin-left: 15px;
+    background-color: burlywood;
+    margin-top: 10px;
+}
